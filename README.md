@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Nirjorsaharudro/Nirjorsaharudro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Glad to see you here! 🤩 &nbsp;
 
-Here are some ideas to get you started:
+- 🚴🏻‍♀️ I,m currently a student of Rajshahi University
+- 🔭 I’m currently working on game development.
+- 🌱 I’m currently learning ...C#,c,c++,JAVA, HTML, CSS and JS
+- 👯 I’m looking to collaborate on ...Open Source Projects and Hackathons
+- 💬 Ask me about ...anything i will try to help you if i can  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Nirjorsaharudro">
+  <img align="left" alt="Rudro's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100007818135481">
+  <img align="left" alt="Rudro's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
